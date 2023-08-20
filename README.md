@@ -35,7 +35,6 @@
 
 
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-davexoyinbo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![David's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=dev-davexoyinbo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-davexoyinbo&show_icons=true&locale=en" alt="dev-davexoyinbo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-davexoyinbo&" alt="dev-davexoyinbo" /></p>
+<p><img align="center" src="" alt="dev-davexoyinbo" /></p>
