@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oyinbo David</h1>
 <h3 align="center">Software Engineer</h3>
 
+<img alt="Coder GIF" align="right" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-davexoyinbo&label=Profile%20views&color=0e75b6&style=flat" alt="dev-davexoyinbo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/davexoyinbo" target="blank"><img src="https://img.shields.io/twitter/follow/davexoyinbo?logo=twitter&style=for-the-badge" alt="davexoyinbo" /></a> </p>
