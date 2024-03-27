@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **dev.davexoyinbo@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/12AdWV0dE_ssUHmIPrhEnATjStPUdI9i5etSuSaBTJLM/edit](https://docs.google.com/document/d/12AdWV0dE_ssUHmIPrhEnATjStPUdI9i5etSuSaBTJLM/edit)
-
 - ⚡ Fun fact **I love dogs**
 
 <br />
