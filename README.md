@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I love dogs**
 
+- My npm profile: [https://www.npmjs.com/~dev-davexoyinbo](https://www.npmjs.com/~dev-davexoyinbo)
+
 <br />
 
 <h3 align="left">Connect with me:</h3>
