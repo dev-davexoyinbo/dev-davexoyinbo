@@ -10,6 +10,8 @@
 - 🌱 Rust, Actix Web, Vue, Nuxt, Laravel, AWS
 
 - 📝 I regularly write articles on  [https://medium.com/@dev.davexoyinbo](https://medium.com/@dev.davexoyinbo), [https://davexoyinbo.hashnode.dev/](https://davexoyinbo.hashnode.dev/)
+  
+- Youtube: [https://www.youtube.com/@buildingblockdev](https://www.youtube.com/@buildingblockdev)
 
 - 💬 Ask me about **Vue, Nuxt, Typescript, Rust**
 
