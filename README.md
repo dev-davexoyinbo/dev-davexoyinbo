@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/davexoyinbo" target="blank"><img src="https://img.shields.io/twitter/follow/davexoyinbo?logo=twitter&style=for-the-badge" alt="davexoyinbo" /></a> </p>
 
-- 🌱 Rust, Actix Web, Vue, Nuxt, Laravel
+- 🌱 Rust, Actix Web, Vue, Nuxt, Laravel, AWS
 
 - 📝 I regularly write articles on  [https://medium.com/@dev.davexoyinbo](https://medium.com/@dev.davexoyinbo), [https://davexoyinbo.hashnode.dev/](https://davexoyinbo.hashnode.dev/)
 
