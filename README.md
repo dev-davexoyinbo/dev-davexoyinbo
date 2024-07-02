@@ -9,7 +9,7 @@
 
 - 🌱 Rust, Actix Web, Vue, Nuxt, Laravel
 
-- 📝 I regularly write articles on [https://davexoyinbo.hashnode.dev/](https://davexoyinbo.hashnode.dev/)  [https://medium.com/@dev.davexoyinbo](https://medium.com/@dev.davexoyinbo)
+- 📝 I regularly write articles on  [https://medium.com/@dev.davexoyinbo](https://medium.com/@dev.davexoyinbo), [https://davexoyinbo.hashnode.dev/](https://davexoyinbo.hashnode.dev/)
 
 - 💬 Ask me about **Vue, Nuxt, Typescript, Rust**
 
