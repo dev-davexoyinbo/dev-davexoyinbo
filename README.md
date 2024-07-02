@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/davexoyinbo" target="blank"><img src="https://img.shields.io/twitter/follow/davexoyinbo?logo=twitter&style=for-the-badge" alt="davexoyinbo" /></a> </p>
 
-- 🌱 I’m currently learning **Rust, Actix Web, Blockchain**
+- 🌱 Rust, Actix Web, Vue, Nuxt, Laravel
 
 - 📝 I regularly write articles on [https://davexoyinbo.hashnode.dev/](https://davexoyinbo.hashnode.dev/)  [https://medium.com/@dev.davexoyinbo](https://medium.com/@dev.davexoyinbo)
 
