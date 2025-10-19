@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **I love dogs**
 
+- Personal Website: https://davidoyinbo.com/
+
 - LinkedIn: https://www.linkedin.com/in/david-bayode-oyinbo/
 
 - My npm profile: [https://www.npmjs.com/~dev-davexoyinbo](https://www.npmjs.com/~dev-davexoyinbo)
